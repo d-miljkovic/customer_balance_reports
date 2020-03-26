@@ -24,9 +24,9 @@ The Customer Balance Reports System is a [DBMS project] that helps the user (wit
 
 7>give a database name and hit on create button ("baza" is default name for this project).
 
-8>if you choose your own database name, please change database name in http://localhost/classes/System.class.php
+8>if you choose your own database name, please change database name in http://localhost/customer_balance_reports/classes/System.class.php
 
-9>open any browser and type http://localhost/install.php
+9>open any browser and type http://localhost/customer_balance_reports/install.php
 
 10>open any browser and type http://localhost/customer_balance_reports
 
