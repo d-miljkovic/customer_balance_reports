@@ -6,7 +6,7 @@ The Customer Balance Reports System is a [DBMS project] that helps the user (wit
 
 1>Install XAMPP or WAMPP.
 
-2>Open XAMPP Control panal and start [apache] and [mysql] .
+2>Open XAMPP Control panel and start [apache] and [mysql] .
 
 3>Download project from github(https://github.com/d-miljkovic/customer_balance_reports.git).
  
@@ -39,7 +39,7 @@ The Customer Balance Reports System is a [DBMS project] that helps the user (wit
 ## Screenshots
 <img src="screenshots/login.png" />
 <img src="screenshots/pretraga.png" />
-<img src="screenshots/pretraga_saldo" />
+<img src="screenshots/pretraga_saldo.png" />
 <img src="screenshots/administracija.png" />
 <img src="screenshots/fakture.png" />
 <img src="screenshots/izvodi.png" />
