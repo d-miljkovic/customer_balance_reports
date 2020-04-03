@@ -1,0 +1,164 @@
+
+/* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+	background: blue;
+	color: white;
+ } */
+
+html {
+	
+}
+
+
+ 
+body {
+  background-image: url("../img/mooning/otis_redding.png");
+  background-color: #cccccc;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 1.8em;
+	padding: 10px;
+}
+
+ #h1_naslov_login {
+	font-family: sans-serif;
+	font-size: 1.4em;
+	padding: 10px;
+	text-align: center;
+}
+
+.h1_naslov {
+	background: #E8EBEE;
+	/*padding: 10px;*/
+	margin: 10px;
+	width: 100%;
+}
+
+
+#wrapper {
+ 	background: #fff;
+ 	/*height: 1000px;*/
+ }
+
+#firstRow {
+ 	margin-top: 20px;
+ 	padding: 20px;
+ }
+
+.skriveni_nav {
+	visibility: hidden;
+}
+
+#fieldset_pretraga {
+	border: 1px solid #ced4da; 
+	padding: 10px;
+	margin: 10px;
+}
+
+.faktura_frame {
+	/*background: yellow;*/
+	padding: 20px;
+	margin: 10px;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+	position: relative;
+}
+
+.printer_icon {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	right: 20px;
+	margin: 10px;
+}
+
+.printer_icon:active {
+	background: #ced4da;
+	padding: 20px;
+	margin: 20px;
+
+}
+
+
+/*potrebno srediti da se ne prikazuje*/
+#link_printer {
+	display : block;
+  	width:100px;
+  	height:40px;
+} 
+
+
+#sekcija_ukupan_saldo {
+/*	background: #ced4da;
+	width: 600px;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid black;*/
+}
+
+
+#saldo_span {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#dugme_nazad_pretraga {
+	margin-top: 20px;
+}
+
+#logout_dugme {
+	position: absolute; 
+	left: 10px;
+	top: 10px;
+	width: 100px;
+
+}
+
+#dugme_pretrazi {
+	margin-top: 20px;
+	width: 370px;
+}
+
+.dugme_izmena {
+	margin: 2px;
+
+}
+
+#select-all {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 166.5px;
+
+}
+
+#deselect-all {
+	margin-top: 20px;
+	margin-left: 37px;
+	margin-bottom: 10px;
+	width: 166.5px;
+
+}
+
+.footer {
+	background: #E8EBEE;
+	padding: 10px;
+	margin: 10px;
+	width: 100%;
+	text-align: right;
+
+}
+
+#footer_span {
+	color: #7E7D7D;
+}
+
+@media only screen and (max-width: 575px) {
+  #logout_dugme {
+	position: relative;
+	width: 100%; 
+
+	}
+}
+
+
